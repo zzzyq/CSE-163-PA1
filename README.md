@@ -64,3 +64,4 @@ mandrill.bmp
 | 150 20 200 200 |
 |:---:|
 |![](images/crop/mandrillcrop.bmp)|
+
